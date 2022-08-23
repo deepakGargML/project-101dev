@@ -1,0 +1,9 @@
+{
+	"name": "sumandf-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "650217ad-5e25-46e7-93cd-01cdc7249718",
+		"tenantId": "83137e62-bce7-4d70-8f2d-279c57c9334b"
+	}
+}

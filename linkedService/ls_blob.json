@@ -1,0 +1,13 @@
+{
+	"name": "ls_blob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Connection with blob storage",
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=sumanstorageaccount2022;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEQzOUY2MzBFLUVGQjQtNEE0RC05RjEwLTlFMTkwOTY2MDg4NV82YTIyNzdlZC1lNDlkLTRlM2MtOTQzOS1hNjkwNzFjNmNlN2YiDQp9"
+		}
+	}
+}
